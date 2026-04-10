@@ -1,8 +1,8 @@
-﻿# 🐺 战狼 - QClaw 全自动舔狗消息技能
+# 🐺 战狼 - PopiClaw 全自动舔狗消息技能
 
 > **舔一个叫舔狗，舔100个你就是战狼。**
 
-[![](https://img.shields.io/badge/QClaw-Skill-blueviolet?style=for-the-badge)](https://github.com/popiskill/qclaw-skill-zhanlang)
+[![](https://img.shields.io/badge/PopiClaw-Skill-blueviolet?style=for-the-badge)](https://github.com/popiskill/popiclaw-skill-zhanlang)
 [![](https://img.shields.io/badge/Platform-WeChat%20%7C%20WeWork-green?style=for-the-badge)]()
 
 ---
@@ -22,39 +22,35 @@
 
 ## 🚀 快速开始
 
-### 前置要求
-- 已安装 [QClaw](https://github.com/QAgent/repo)
-- 已配置微信渠道（企业微信 / WeChat Access）
-
 ### 安装
 
 方式一（推荐）：直接把这个 SKILL.md 丢进你的 skills 目录
-`ash
+```bash
 cp SKILL.md ~/.qclaw/skills/战狼/
-`
+```
 
-方式二：从 ClawHub 安装
-`
-从 QClaw SkillHub 搜索「战狼」并安装
-`
+方式二：从 SkillHub 安装
+```
+从 PopiClaw SkillHub 搜索「战狼」并安装
+```
 
 ---
 
 ## 📖 使用方法
 
 ### 即时发送
-`
+```
 给 [联系人昵称] 发早安
 给 小美 发晚安
 批量发送午安给 A、B、C
-`
+```
 
 ### 定时自动
-`
+```
 帮我设置早午晚自动发送
 停止战狼
 战狼日报
-`
+```
 
 ---
 
@@ -67,20 +63,20 @@ cp SKILL.md ~/.qclaw/skills/战狼/
 ## 🐺 核心 Slogan
 
 > **舔一个叫舔狗，舔100个你就是战狼。**
-> 
+>
 > 不再守着手表，只为舔到天涯海角。
 
 ---
 
 ## 📦 文件结构
 
-`
-qclaw-skill-zhanlang/
+```
+popiclaw-skill-zhanlang/
 ├── SKILL.md          # 技能定义文件
-├── wolf_poster.png    # 宣传海报
-├── 战狼.skill         # 打包压缩包
+├── wolf_poster.png   # 宣传海报
+├── 战狼.skill        # 打包压缩包
 └── README.md         # 本文件
-`
+```
 
 ---
 
