@@ -56,7 +56,7 @@ cp SKILL.md ~/.qclaw/skills/战狼/
 
 ## 🖼️ 宣传图
 
-![](wolf_poster.png)
+![](wolf_poster_v2.png)
 
 ---
 
@@ -72,10 +72,11 @@ cp SKILL.md ~/.qclaw/skills/战狼/
 
 ```
 popiclaw-skill-zhanlang/
-├── SKILL.md          # 技能定义文件
-├── wolf_poster.png   # 宣传海报
-├── 战狼.skill        # 打包压缩包
-└── README.md         # 本文件
+├── SKILL.md             # 技能定义文件
+├── wolf_poster_v2.png   # 宣传海报（舔狗进化论·三格漫画版）
+├── wolf_poster.png      # 宣传海报（旧版·赛博朋克版）
+├── 战狼.skill           # 打包压缩包
+└── README.md            # 本文件
 ```
 
 ---
