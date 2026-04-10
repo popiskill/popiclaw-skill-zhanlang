@@ -7,6 +7,10 @@
 
 ---
 
+![](wolf_poster_v2.png)
+
+---
+
 ## ✨ 功能一览
 
 | 功能 | 说明 |
@@ -51,12 +55,6 @@ cp SKILL.md ~/.qclaw/skills/战狼/
 停止战狼
 战狼日报
 ```
-
----
-
-## 🖼️ 宣传图
-
-![](wolf_poster_v2.png)
 
 ---
 
